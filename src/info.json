@@ -1,0 +1,9 @@
+   {
+       "name": "ifmt-logistics",
+       "version": "0.0.0",
+       "title": "IFMT Logistics",
+       "author": "marengohue",
+       "homepage": "https://github.com/marengohue/ifmt-logistics",
+       "factorio_version": "1.1",
+       "dependencies": []
+   }

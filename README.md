@@ -11,3 +11,4 @@ Cons of the system compared to regular trains are:
   - Locked behind purple science.
   - More expensive to setup.
   - Limited throughput - mostly meant as a replacement for 1-1 trains.
+
