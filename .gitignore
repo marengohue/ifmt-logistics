@@ -42,3 +42,6 @@ luac.out
 # Emacs backups and temp files
 *#*
 *~
+
+# Build artefacts
+.dist
